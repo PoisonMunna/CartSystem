@@ -89,18 +89,18 @@ start index.html
 ```
 ## 📁 Project Structure
 
-ecommerce-cart/
-├── index.html          # Main HTML structure
-├── css/
-│   └── style.css       # All styles and animations
-├── js/
-│   ├── data.js         # Product data and discount codes
-│   ├── cart.js         # Cart logic (add, remove, discount, totals)
-│   ├── ui.js           # DOM manipulation and rendering
-│   └── app.js          # Main app initialization and event listeners
-├── assets/
-│   └── screenshots/    # Project screenshots (optional)
-└── README.md           # This file
+ecommerce-cart/  
+├── index.html          # Main HTML structure  
+├── css/  
+│   └── style.css       # All styles and animations  
+├── js/  
+│   ├── data.js         # Product data and discount codes  
+│   ├── cart.js         # Cart logic (add, remove, discount, totals)  
+│   ├── ui.js           # DOM manipulation and rendering  
+│   └── app.js          # Main app initialization and event listeners  
+├── assets/  
+│   └── screenshots/    # Project screenshots (optional)  
+└── README.md           # This file  
 
 ## 👨‍💻 Author
 
