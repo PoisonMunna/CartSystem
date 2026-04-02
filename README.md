@@ -10,8 +10,7 @@ No frameworks. No libraries. No build tools. Just clean vanilla code.
 ---
 
 ## 🌐 Live Demo
-
-Simply open `index.html` in any browser — no server required!
+👉 [Click here to view the project](https://your-demo-link.com)
 
 ---
 
@@ -89,6 +88,7 @@ start index.html
 ```
 ## 📁 Project Structure
 
+```bash
 ecommerce-cart/  
 ├── index.html          # Main HTML structure  
 ├── css/  
@@ -100,8 +100,9 @@ ecommerce-cart/
 │   └── app.js          # Main app initialization and event listeners  
 ├── assets/  
 │   └── screenshots/    # Project screenshots (optional)  
-└── README.md           # This file  
+└── README.md           # This file
+```
 
 ## 👨‍💻 Author
 
-GitHub: @PoisonMunna
+- GitHub: [@PoisonMunna](https://github.com/PoisonMunna)
